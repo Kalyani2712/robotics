@@ -17,6 +17,4 @@ robot.exit();
 public static void main(String[] args) {
        new square();
 }
-  
-
   }
